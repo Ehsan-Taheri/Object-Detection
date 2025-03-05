@@ -1,0 +1,9 @@
+#Train and validation data
+train: /content/yolov5/data/images/train
+val: /content/yolov5/data/images/val
+
+#number of classes
+nc: 4
+
+#class names
+names: ['inhibitory','Danger','Mandatory','Other']
