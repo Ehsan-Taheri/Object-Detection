@@ -1,6 +1,6 @@
 # Object-Detection
 
-<video width="320" height="240" controls>
-  <source src="video.movtraffic-sign-to-test (1).mp4" type="video/mp4">
-</video>
-http://github.com/Ehsan-Taheri/Object-Detection/blob/main/traffic-sign-to-test%20(1).mp4
+
+
+https://github.com/user-attachments/assets/a1c3a9a7-a32b-44d8-a9d7-ef8f72778a1e
+
